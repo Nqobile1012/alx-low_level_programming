@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 
 	if (argv[2][1])
 	{
-		printf("error\n");
+		printf("Error\n");
 		exit(99);
 	}
 
